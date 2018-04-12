@@ -1,0 +1,11 @@
+D:\Dev\HurDatForms\HurDatForms\bin\Debug\HurDatForms.exe.config
+D:\Dev\HurDatForms\HurDatForms\bin\Debug\HurDatForms.exe
+D:\Dev\HurDatForms\HurDatForms\bin\Debug\HurDatForms.pdb
+D:\Dev\HurDatForms\HurDatForms\obj\Debug\HurDatForms.csprojResolveAssemblyReference.cache
+D:\Dev\HurDatForms\HurDatForms\obj\Debug\HurDatForms.Form1.resources
+D:\Dev\HurDatForms\HurDatForms\obj\Debug\HurDatForms.Properties.Resources.resources
+D:\Dev\HurDatForms\HurDatForms\obj\Debug\HurDatForms.csproj.GenerateResource.Cache
+D:\Dev\HurDatForms\HurDatForms\obj\Debug\HurDatForms.exe
+D:\Dev\HurDatForms\HurDatForms\obj\Debug\HurDatForms.pdb
+D:\Dev\HurDatForms\HurDatForms\bin\Debug\hurdat2-1851-2016-041117.txt
+D:\Dev\HurDatForms\HurDatForms\bin\Debug\states.xml
